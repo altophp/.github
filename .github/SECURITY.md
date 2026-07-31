@@ -25,7 +25,7 @@ that version unless an advisory explicitly names another supported branch.
 
 If GitHub displays a **Report a vulnerability** button for the affected
 repository, use it to open a private report. Otherwise, email
-[smn.andre@gmail.com](mailto:smn.andre@gmail.com) with the subject
+[security@altocoda.com](mailto:security@altocoda.com) with the subject
 `[SECURITY] alto/<package>`, naming the affected package.
 
 Include:
